@@ -12,3 +12,9 @@ p {
     font-style: normal;
     font-size: larger;
 }
+img {
+    float: right;
+}
+div {
+    clear: left;
+}
