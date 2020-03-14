@@ -8,9 +8,10 @@ h1 {
 }
 
 p {
+    
     font-family: fantasy;
     font-style: normal;
-    font-size: larger;
+    font-size: 400px;
 }
 img {
     float: right;
